@@ -1,5 +1,3 @@
-## tpg-base-image
-
 FROM node:8.11.1
 
 # upgrade npm
